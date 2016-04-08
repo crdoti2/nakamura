@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_Animation_4</string>
+    <string name="on_label">スタート</string>
+    <string name="off_label">ストップ</string>
+</resources>
